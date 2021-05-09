@@ -12,6 +12,14 @@ In order to go to the menu list press the button "Eat-In" or just "Order Now" bu
 We are on the menu list where we can buy "Burger", "Cake" and "Pizza"
 Buy some food by clicking "buy" button.
 
+![threepage](https://user-images.githubusercontent.com/73636880/117566584-465fb000-b0d9-11eb-91d9-27105474e85b.PNG)
+
+So this is the Ordering pane, feel the cheque by picking data, choosing payment method and amount of that food.
+Program will automatically show you a total payment.Then click "purchase"
+You are successfuly Order your Fast-Food))
+
+Don't forget to enter your Address and Save on "Delivery" stage. 
+
 
 
 
