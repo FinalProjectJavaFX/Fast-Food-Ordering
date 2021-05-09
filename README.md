@@ -38,6 +38,8 @@ https://trello.com/b/JhK9nZKf/trouble-makers-plan
 Figma:
 https://www.figma.com/file/h1CZWRzV6dKuKbSBkeHCIH/Untitled?node-id=0%3A1
 
+![figma](https://user-images.githubusercontent.com/73636880/117582555-55b81b00-b124-11eb-84c6-79f06d2f81eb.PNG)
+
 
 
 # Team members: Erlan Kerimbekov, Elmir Bekmurzaev
