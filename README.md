@@ -12,7 +12,7 @@ In order to go to the menu list press the button "Eat-In" or just "Order Now" bu
 We are on the menu list where we can buy "Burger", "Cake" and "Pizza"
 Buy some food by clicking "buy" button.
 
-![twopage](https://user-images.githubusercontent.com/73636880/117566484-9f7b1400-b0d8-11eb-8b99-d54d543c943f.PNG)
+
 
 
 
