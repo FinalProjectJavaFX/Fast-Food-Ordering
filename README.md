@@ -8,7 +8,7 @@
 
 
 # Secondly!
-![ссылка на фото](https://cdn1.worldpng.ru/uploads/2021/3/18/4d28f8a633dd6891549ce526ca5c9f6c-full.jpg)
+![ссылка на фото](https://www.online-convert.com/ru/downloadfile/f5f98a64-ea71-44e1-b337-f8f68cbda452/816a452c-dfa0-49f5-b3a2-3be2c9322155)
 
 
 ## It doesn't matter if you will write in Russian or English language ;)
